@@ -1,0 +1,9 @@
+/target
+.class
+.imi
+.iml
+mvn*
+.mvn
+.txt
+.idea
+.DS_Store
